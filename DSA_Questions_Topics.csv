@@ -1,0 +1,420 @@
+Topic,SubTopic,S.No,Question Name,Question Link,Java Solution
+Bitwise,Bitwise properties,1,Check if ith bit set or not,https://practice.geeksforgeeks.org/problems/check-whether-k-th-bit-is-set-or-not-1587115620/1,./src/main/java/Bitwise/BitSetOrNot.java
+Bitwise,Bitwise properties,2,Number of 1 bits,https://leetcode.com/problems/number-of-1-bits/,./src/main/java/Bitwise/NumberOfSetBits.java
+Bitwise,Bitwise properties,3,Counting Bits,https://leetcode.com/problems/counting-bits/,./src/main/java/Bitwise/CountingBits.java
+Bitwise,Bitwise properties,4,Reverse Bits,https://leetcode.com/problems/reverse-bits/,./src/main/java/Bitwise/ReverseBits.java
+Bitwise,Bitwise properties,5,Say N is odd/even,https://practice.geeksforgeeks.org/problems/odd-or-even3618/1,./src/main/java/Bitwise/EvenOrOdd.java
+Bitwise,Bitwise properties,6,Swap all odd and even bits,https://practice.geeksforgeeks.org/problems/swap-all-odd-and-even-bits-1587115621/1,./src/main/java/Bitwise/PowerSet.java
+Bitwise,Bitwise properties,7,Longest Consecutive 1's,https://practice.geeksforgeeks.org/problems/longest-consecutive-1s-1587115620/1,./src/main/java/Bitwise/PowerSet.java
+Bitwise,Bitwise properties,8,Sparse Number,https://practice.geeksforgeeks.org/problems/number-is-sparse-or-not-1587115620/1,./src/main/java/Bitwise/PowerSet.java
+Bitwise,Bitwise properties,9,Extract/Set/Clear/Remove,https://www.geeksforgeeks.org/set-clear-and-toggle-a-given-bit-of-a-number-in-c/,./src/main/java/Bitwise/
+Bitwise,Bitwise properties,10,Check if a no is a power of 2,https://practice.geeksforgeeks.org/problems/power-of-2-1587115620/1,./src/main/java/Bitwise/PowerOf2OrNot.java
+Bitwise,Bitwise properties,11,Copy set bits in a range,https://www.geeksforgeeks.org/copy-set-bits-in-a-range/,https://www.geeksforgeeks.org/copy-set-bits-in-a-range
+Bitwise,Bitwise properties,12,Complement of base 10 number,https://leetcode.com/problems/complement-of-base-10-integer,./src/main/java/Bitwise/DecimalToBinaryConversion.java
+Bitwise,Bitwise properties,13,Bit difference,https://leetcode.com/problems/convert-a-number-to-hexadecimal/,./src/main/java/Bitwise/DecimalToBinaryConversion.java
+Bitwise,Shifting,1,Print Xor of 1 to N and Range,https://practice.geeksforgeeks.org/problems/xor-of-a-given-range/1,./src/main/java/Bitwise/XOR_Range.java
+Bitwise,Shifting,2,Bitwise AND of Numbers Range,https://leetcode.com/problems/bitwise-and-of-numbers-range/,./src/main/java/Bitwise/BitwiseANDRange.java
+Bitwise,Shifting,3,Divide two integers without using multiplication division and mod operator,https://leetcode.com/problems/divide-two-integers/,./src/main/java/Bitwise/DecimalToBinaryConversion.java
+Bitwise,Shifting,4,Square of no without using * / and pow(),https://www.geeksforgeeks.org/calculate-square-of-a-number-without-using-and-pow/,./src/main/java/Bitwise/DecimalToBinaryConversion.java
+Bitwise,XOR problems,1,Maximum subset XOR,https://practice.geeksforgeeks.org/problems/maximum-subset-xor/1,./src/main/java/Bitwise/PowerSet.java
+Bitwise,XOR problems,2,Single Number,https://leetcode.com/problems/single-number/,./src/main/java/Bitwise/SingleNumber_I.java
+Bitwise,XOR problems,3,Single Number II,https://leetcode.com/problems/single-number-ii/,./src/main/java/Bitwise/SingleNumber_I.java
+Bitwise,XOR problems,4,Single Number III,https://leetcode.com/problems/single-number-iii,./src/main/java/Bitwise/TwoUniqueNumbers.java
+Bitwise,XOR problems,5,Swap 2 nos without using third variable,https://practice.geeksforgeeks.org/problems/swap-two-numbers3844/1,./src/main/java/Bitwise/Swap2Numbers.java
+Bitwise,XOR problems,6,Missing Numbers,https://leetcode.com/problems/missing-number/,./src/main/java/Bitwise/MissingNumberXor.java
+Bitwise,XOR problems,7,Subsets (power set),https://practice.geeksforgeeks.org/problems/power-set4302/1,./src/main/java/Bitwise/PowerSet.java
+Bitwise,Conversions,1,Decimal to Binary,https://practice.geeksforgeeks.org/problems/decimal-to-binary-1587115620/1,./src/main/java/Bitwise/DecimalToBinaryConversion.java
+Bitwise,Conversions,2,Binary to Decimal,https://practice.geeksforgeeks.org/problems/binary-number-to-decimal-number3525/1,./src/main/java/Bitwise/BinaryToDecimalConversion.java
+Bitwise,Conversions,3,Convert a number to hexadecimal,https://leetcode.com/problems/convert-a-number-to-hexadecimal/,./src/main/java/Bitwise/DecimalToBinaryConversion.java
+Bitwise,Conversions,4,Add Binary,https://leetcode.com/problems/add-binary/,./src/main/java/Bitwise/AddBinary.java
+Bitwise,Conversions,5,Sum of Two Integers,https://leetcode.com/problems/sum-of-two-integers/,./src/main/java/Bitwise/SumOfTwoIntegers.java
+Math Arrays Cyclic Sort,Math,1,Plus One,https://leetcode.com/problems/plus-one/,./src/main/java/Arrays/PlusOne.java
+Math Arrays Cyclic Sort,Math,2,Factorial Trailing Zeros,https://leetcode.com/problems/factorial-trailing-zeroes/,./src/main/java/Arrays/FactorialTrailingZeros.java
+Math Arrays Cyclic Sort,Math,3,Max points on a line,https://leetcode.com/problems/max-points-on-a-line/,./src/main/java/Arrays/MaxPointsInALine.java
+Math Arrays Cyclic Sort,Math,4,Fraction to recurring decimal,https://leetcode.com/problems/fraction-to-recurring-decimal/,./src/main/java/Arrays/FractionToRecurringDecimal.java
+Math Arrays Cyclic Sort,Math,5,Logger Rate Limiter,https://prepfortech.in/interview-topics/hash-table/logger-rate-limiter-leet-code/,./src/main/java/Arrays/
+Math Arrays Cyclic Sort,Math,6,Ugly Number - prime factors,https://leetcode.com/problems/ugly-number/,./src/main/java/Arrays/Primes.java
+Math Arrays Cyclic Sort,Math,7,Count primes,https://leetcode.com/problems/count-primes/,./src/main/java/Arrays/Primes.java
+Math Arrays Cyclic Sort,Math,8,GCD/LCM,https://leetcode.com/problems/logger-rate-limiter/,./src/main/java/Arrays/Primes.java
+Math Arrays Cyclic Sort,Math,9,Pascals Triangle,https://leetcode.com/problems/pascals-triangle/,./src/main/java/Arrays/PascalsTriangle.java
+Math Arrays Cyclic Sort,Math,10,Integer to Roman,https://leetcode.com/problems/integer-to-roman/,./src/main/java/Arrays/IntegerToRomanViceVersa.java
+Math Arrays Cyclic Sort,Math,11,Roman To Integer,https://leetcode.com/problems/roman-to-integer/,./src/main/java/Arrays/IntegerToRomanViceVersa.java
+Math Arrays Cyclic Sort,Math,12,Excel sheet column title,https://leetcode.com/problems/roman-to-integer/,./src/main/java/Arrays/ExcelSheet.java
+Math Arrays Cyclic Sort,Math,13,Excel Sheet column number,https://leetcode.com/problems/roman-to-integer/,./src/main/java/Arrays/ExcelSheet.java
+Math Arrays Cyclic Sort,Cyclic Sort,1,Missing Number,https://leetcode.com/problems/missing-number/,./src/main/java/CyclicSort/MissingNumber.java
+Math Arrays Cyclic Sort,Cyclic Sort,2,Find all numbers disappeared in the array,https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/,./src/main/java/CyclicSort/FindAllMissingNumbersInArray.java
+Math Arrays Cyclic Sort,Cyclic Sort,3,Find the duplicate number,https://leetcode.com/problems/find-the-duplicate-number/,./src/main/java/CyclicSort/FindTheDuplicateNumber.java
+Math Arrays Cyclic Sort,Cyclic Sort,4,Find all duplicates in an array,https://leetcode.com/problems/find-all-duplicates-in-an-array/,./src/main/java/CyclicSort/FillAllDuplicatesInArray.java
+Math Arrays Cyclic Sort,Cyclic Sort,5,Set mismatch,https://leetcode.com/problems/set-mismatch/,./src/main/java/CyclicSort/SetMismatch.java
+Math Arrays Cyclic Sort,Cyclic Sort,6,First missing positive number,https://leetcode.com/problems/first-missing-positive/,./src/main/java/CyclicSort/FirstMissingPositive.java
+Math Arrays Cyclic Sort,1D-Array,1,Palindrome Number,https://leetcode.com/problems/palindrome-number/,./src/main/java/Arrays/PalindromeNumber.java
+Math Arrays Cyclic Sort,1D-Array,2,Longest Palindrome,https://leetcode.com/problems/longest-palindrome/,./src/main/java/Arrays/LongestPalindromeLength.java
+Math Arrays Cyclic Sort,1D-Array,3,Longest Consecutive sequence,https://leetcode.com/problems/longest-consecutive-sequence/,./src/main/java/Arrays/LongestConsecutiveSequence.java
+Math Arrays Cyclic Sort,1D-Array,4,Majority Element I & II,https://leetcode.com/problems/majority-element/,./src/main/java/Arrays/MajorityElement.java
+Math Arrays Cyclic Sort,1D-Array,5,Max consecutive ones,https://leetcode.com/problems/max-consecutive-ones/,./src/main/java/TwoPointers/MaxConsecutiveOnes.java
+Math Arrays Cyclic Sort,1D-Array,6,Product of Array except Self (PrefixSum),https://leetcode.com/problems/product-of-array-except-self/,./src/main/java/Arrays/ProductOfArrayExceptSelf.java
+Math Arrays Cyclic Sort,1D-Array,7,Rotate Array,https://leetcode.com/problems/rotate-array/,./src/main/java/Arrays/RotateArray.java
+Math Arrays Cyclic Sort,1D-Array,8,Check if array is rotated or not,https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/,./src/main/java/Arrays/RotateArray.java
+Math Arrays Cyclic Sort,1D-Array,9,Convert array into zigzag fashion,https://practice.geeksforgeeks.org/problems/convert-array-into-zig-zag-fashion1638/1,./src/main/java/Arrays/Zigzag.java
+Math Arrays Cyclic Sort,1D-Array,10,Wiggle sort I & II,https://leetcode.com/problems/wiggle-sort-ii/,./src/main/java/Arrays/Zigzag.java
+Math Arrays Cyclic Sort,1D-Array,11,Rearrange Array Alternately,https://practice.geeksforgeeks.org/problems/-rearrange-array-alternately-1587115620/1,./src/main/java/Arrays/Zigzag.java
+Math Arrays Cyclic Sort,1D-Array,12,Element with left side smaller and right side greater,https://practice.geeksforgeeks.org/problems/unsorted-array4925/1,./src/main/java/Arrays/Zigzag.java
+Math Arrays Cyclic Sort,Matrix 2D,1,Rotate Image,https://leetcode.com/problems/rotate-image/,./src/main/java/Arrays/RotateImage.java
+Math Arrays Cyclic Sort,Matrix 2D,2,Set Matrix to Zero,https://leetcode.com/problems/set-matrix-zeroes/,./src/main/java/Arrays/SetMatrixToZeros.java
+Math Arrays Cyclic Sort,Matrix 2D,3,Spiral Matrix I & II,https://leetcode.com/problems/spiral-matrix/,./src/main/java/Arrays/SpiralMatrix.java
+Math Arrays Cyclic Sort,Matrix 2D,4,Game of Life,https://leetcode.com/problems/game-of-life/,./src/main/java/Arrays/GameOfLife.java
+Strings,Common string problems,1,Valid Anagram,https://leetcode.com/problems/valid-anagram/,./src/main/java/Strings/ValidAnagram.java
+Strings,Common string problems,2,Group Anagrams,https://leetcode.com/problems/group-anagrams/,./src/main/java/Strings/
+Strings,Common string problems,3,Valid Palindrome,https://leetcode.com/problems/valid-palindrome/,./src/main/java/Strings/ValidPalindrome.java
+Strings,Common string problems,4,Valid Palindrome II,https://leetcode.com/problems/valid-palindrome-ii/,./src/main/java/Strings/ValidPalindromeII.java
+Strings,Common string problems,5,Isomorphic Strings,https://leetcode.com/problems/isomorphic-strings/,./src/main/java/Strings/Isomorphic.java
+Strings,Common string problems,6,Ransom Note,https://leetcode.com/problems/ransom-note/,./src/main/java/Strings/RansomNote.java
+Strings,Common string problems,7,Count and Say,https://leetcode.com/problems/count-and-say/,./src/main/java/Strings/CountAndSay.java
+Strings,Common string problems,8,Encode & Decode Strings,https://leetcode.com/problems/encode-and-decode-strings/,./src/main/java/Strings/EncodeAndDecodeStrings.java
+Strings,Common string problems,9,String Compression,https://leetcode.com/problems/string-compression,./src/main/java/Strings/TextJustification.java
+Strings,Common string problems,10,Zig Zag conversion,https://leetcode.com/problems/zigzag-conversion/,./src/main/java/Strings/ZigZagConversion.java
+Strings,Common string problems,11,Length of Last Word,https://leetcode.com/problems/length-of-last-word/,./src/main/java/Strings/LengthOfLastWord.java
+Strings,Common string problems,12,Reverse words in a string,https://leetcode.com/problems/reverse-words-in-a-string/,./src/main/java/Strings/ReverseWordsInAString.java
+Strings,KMP Pattern matching,1,Find the index of the first occurrence in a string (atoI - kmp),https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/,./src/main/java/Strings/AtoIKMP.java
+Strings,KMP Pattern matching,2,Longest common prefix,https://leetcode.com/problems/longest-common-prefix/,./src/main/java/Strings/LongestCommonPrefix.java
+Strings,KMP Pattern matching,3,Text Justification,https://leetcode.com/problems/text-justification/,./src/main/java/Strings/TextJustification.java
+Strings,Other problems,1,Minimum insertion steps to make a string palindrome,https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome,./src/main/java/Strings/MinInsertions.java
+Strings,Other problems,2,Longest palindromic substring,https://leetcode.com/problems/longest-palindromic-substring,./src/main/java/Strings/LongestPalindromicSubstring.java
+Strings,Other problems,3,Compare version numbers,https://leetcode.com/problems/compare-version-numbers/,./src/main/java/Strings/CompareVersionNumbers.java
+Strings,Other problems,4,Validate IP Address,https://leetcode.com/problems/validate-ip-address,./src/main/java/Strings/ValidateIPAddress.java
+Strings,Other problems,5,Kids with greatest number of candies,https://leetcode.com/problems/kids-with-the-greatest-number-of-candies,./src/main/java/Strings/TextJustification.java
+Strings,Other problems,6,Can place flowers,https://leetcode.com/problems/can-place-flowers,./src/main/java/Strings/TextJustification.java
+Strings,Other problems,7,GCD of strings,https://leetcode.com/problems/greatest-common-divisor-of-strings,./src/main/java/Strings/TextJustification.java
+Greedy MergeIntervals,Greedy,1,Largest Number,https://leetcode.com/problems/largest-number/,./src/main/java/Greedy/LargestFromArray.java
+Greedy MergeIntervals,Greedy,2,Gas Station,https://leetcode.com/problems/gas-station/,./src/main/java/Greedy/GasStationOrCircularTour.java
+Greedy MergeIntervals,Greedy,3,Candy,https://leetcode.com/problems/candy/,./src/main/java/Greedy/CarPoolingAndCandy.java
+Greedy MergeIntervals,Greedy,4,Car Pooling,https://leetcode.com/problems/car-pooling/,./src/main/java/Greedy/CarPoolingAndCandy.java
+Greedy MergeIntervals,Greedy,5,Boats to save people,https://leetcode.com/problems/boats-to-save-people/,./src/main/java/Greedy/MinimumNoOfBoatsToSavePeople.java
+Greedy MergeIntervals,Greedy,6,Minimum platforms,https://practice.geeksforgeeks.org/problems/minimum-platforms-1587115620/1,./src/main/java/Greedy/MinimumNoOfPlatformsRequired.java
+Greedy MergeIntervals,Greedy,7,Minimum no of refueling shops,https://leetcode.com/problems/minimum-number-of-refueling-stops/,./src/main/java/Greedy/MinimumNoOfRefuelingStops.java
+Greedy MergeIntervals,Greedy,8,Jump Game,https://leetcode.com/problems/jump-game/,./src/main/java/Greedy/JumpGame.java
+Greedy MergeIntervals,Greedy,9,Two-City scheduling,https://leetcode.com/problems/two-city-scheduling/,./src/main/java/Greedy/TwoCitySchedulingInterview.java
+Greedy MergeIntervals,Greedy,10,Find the celebrity,https://www.youtube.com/watch?v=LZJBZEnoYLQ,./src/main/java/Greedy/FindTheCelebrity.java
+Greedy MergeIntervals,Greedy,11,Distribute candies,https://leetcode.com/problems/distribute-candies/,./src/main/java/Greedy/DistributeCandies.java
+Greedy MergeIntervals,Greedy,12,Increasing triplet subsequence,https://leetcode.com/problems/increasing-triplet-subsequence/,./src/main/java/Greedy/IncreasingTripletSubsequence.java
+Greedy MergeIntervals,MergeIntervals,1,Merge Interval,https://leetcode.com/problems/merge-intervals/,./src/main/java/mergeIntervals/mergeIntervals.java
+Greedy MergeIntervals,MergeIntervals,2,Insert Interval,https://leetcode.com/problems/insert-interval/,./src/main/java/mergeIntervals/InsertIntervals.java
+Greedy MergeIntervals,MergeIntervals,3,Non-overlapping intervals,https://leetcode.com/problems/non-overlapping-intervals/,./src/main/java/mergeIntervals/Non_overlappingInterval.java
+Greedy MergeIntervals,MergeIntervals,4,Interval List Intersections,https://leetcode.com/problems/interval-list-intersections/,./src/main/java/mergeIntervals/IntervalListIntersections.java
+Greedy MergeIntervals,MergeIntervals,5,Minimum no of arrows to burst balloons,https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/,./src/main/java/mergeIntervals/MinimumArrowsToBurstBallons.java
+Greedy MergeIntervals,MergeIntervals,6,Meeting rooms I&II,https://www.lintcode.com/problem/920/,./src/main/java/mergeIntervals/MeetingRooms.java
+Greedy MergeIntervals,MergeIntervals,7,Employee free time,https://leetcode.com/problems/employee-free-time/,./src/main/java/mergeIntervals/EmployeeFreeTime.java
+Greedy MergeIntervals,MergeIntervals,8,Summary Ranges,https://leetcode.com/problems/summary-ranges/,./src/main/java/mergeIntervals/SummaryRanges.java
+Heap,Kth Smallest/Largest,1,Kth Largest element in an array,https://leetcode.com/problems/kth-largest-element-in-an-array/,./src/main/java/Heaps/
+Heap,Kth Smallest/Largest,2,Kth Largest Element in a Stream,https://leetcode.com/problems/kth-largest-element-in-a-stream/,./src/main/java/Heaps/
+Heap,Kth Smallest/Largest,3,K Closest Points to Origin,https://leetcode.com/problems/k-closest-points-to-origin/,./src/main/java/Heaps/
+Heap,Top K pattern,1,Top k Frequent elements,https://leetcode.com/problems/top-k-frequent-elements/,./src/main/java/Heaps/
+Heap,Top K pattern,2,Top k Frequent words,https://leetcode.com/problems/top-k-frequent-words/,./src/main/java/Heaps/
+Heap,Top K pattern,3,Sort Characters By Frequency,https://leetcode.com/problems/sort-characters-by-frequency/,./src/main/java/Heaps/
+Heap,Two Heaps Merge Patterns,1,Find median from data stream,https://leetcode.com/problems/find-median-from-data-stream/,./src/main/java/Heaps/
+Heap,Two Heaps Merge Patterns,2,Sliding Window Median,https://leetcode.com/problems/sliding-window-median/,./src/main/java/Heaps/
+Heap,Two Heaps Merge Patterns,3,Merge k sorted lists,https://leetcode.com/problems/merge-k-sorted-lists,./src/main/java/Heaps/MergeKSortedLists.java
+Heap,Two Heaps Merge Patterns,4,Find K pairs with smallest sums,https://leetcode.com/problems/find-k-pairs-with-smallest-sums/,./src/main/java/Heaps/
+Heap,Two Heaps Merge Patterns,5,Find the Kth Smallest Sum of a Matrix with sorted rows,https://leetcode.com/problems/find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows/,./src/main/java/Heaps/
+Heap,Two Heaps Merge Patterns,6,Reorganize String,https://leetcode.com/problems/reorganize-string/,./src/main/java/Heaps/
+Heap,Two Heaps Merge Patterns,7,Rearrange String k Distance Apart,https://leetcode.com/problems/reorganize-string/,./src/main/java/Heaps/
+Heap,Two Heaps Merge Patterns,8,Task Scheduler,https://leetcode.com/problems/task-scheduler/,./src/main/java/Heaps/
+Heap,Two Heaps Merge Patterns,9,IPO,https://leetcode.com/problems/ipo/,./src/main/java/Heaps/
+Heap,Two Heaps Merge Patterns,10,Minimum Cost to Hire K workers,https://leetcode.com/problems/minimum-cost-to-hire-k-workers/,./src/main/java/Heaps/
+Two Pointers,Two Pointers,1,Two Sum,https://leetcode.com/problems/two-sum/,./src/main/java/TwoPointers/TwoSum_I.java
+Two Pointers,Two Pointers,2,Two Sum II - Input Array sorted,https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/,./src/main/java/TwoPointers/TwoSum_II.java
+Two Pointers,Two Pointers,3,3 Sum,https://leetcode.com/problems/3sum/,./src/main/java/TwoPointers/ThreeSum.java
+Two Pointers,Two Pointers,4,3 Sum closest,https://leetcode.com/problems/3sum-closest/,./src/main/java/TwoPointers/ThreeSumClosest.java
+Two Pointers,Two Pointers,5,4 Sum,https://leetcode.com/problems/4sum/,./src/main/java/TwoPointers/FourSum.java
+Two Pointers,Two Pointers,6,4 Sum II,https://leetcode.com/problems/4sum-ii/,./src/main/java/TwoPointers/FourSum_II.java
+Two Pointers,Two Pointers,7,K-diff pairs in an array,https://leetcode.com/problems/k-diff-pairs-in-an-array/,./src/main/java/TwoPointers/FindKDiffPairs.java
+Two Pointers,Two Pointers,8,Valid Triangle,https://leetcode.com/problems/valid-triangle-number/,./src/main/java/TwoPointers/ValidTriangle.java
+Two Pointers,Two Pointers,9,Partition labels,https://leetcode.com/problems/partition-labels/,./src/main/java/TwoPointers/PartitionLabels.java
+Two Pointers,Two Pointers,10,Move zeroes,https://leetcode.com/problems/move-zeroes/,./src/main/java/TwoPointers/MoveZeros.java
+Two Pointers,Two Pointers,11,Sort colors,https://leetcode.com/problems/sort-colors/,./src/main/java/TwoPointers/SortColors.java
+Two Pointers,Two Pointers,12,Remove Element,https://leetcode.com/problems/remove-element/,./src/main/java/TwoPointers/RemoveElement.java
+Two Pointers,Two Pointers,13,Remove duplicates from sorted array,https://leetcode.com/problems/remove-duplicates-from-sorted-array/,./src/main/java/TwoPointers/RemoveDuplicatesFromSortedArrayIAndII.java
+Two Pointers,Two Pointers,14,Remove duplicates from sorted array II,https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/,./src/main/java/TwoPointers/RemoveDuplicatesFromSortedArrayIAndII.java
+Two Pointers,Two Pointers,15,Merge sorted array,https://leetcode.com/problems/merge-sorted-array/,./src/main/java/TwoPointers/MergeSortedArray.java
+Two Pointers,Two Pointers,16,Trapping rain water,https://leetcode.com/problems/trapping-rain-water/,./src/main/java/TwoPointers/TrappingRainWater.java
+Two Pointers,Two Pointers,17,Trapping rain water II,https://leetcode.com/problems/trapping-rain-water-ii/,./src/main/java/TwoPointers/
+Two Pointers,Two Pointers,18,Container with most water,https://leetcode.com/problems/container-with-most-water/,./src/main/java/TwoPointers/ContainerWithMostWater.java
+Two Pointers,Two Pointers,19,Next permutation,https://leetcode.com/problems/next-permutation/,./src/main/java/TwoPointers/ContainerWithMostWater.java
+Two Pointers,Slow and Fast Pointers,1,Middle of the LinkedList,https://leetcode.com/problems/middle-of-the-linked-list/,./src/main/java/FastAndSlowPointers/MiddleOfTheLinkedList.java
+Two Pointers,Slow and Fast Pointers,2,Linked List cycle,https://leetcode.com/problems/linked-list-cycle/,./src/main/java/FastAndSlowPointers/LinkedListCycle.java
+Two Pointers,Slow and Fast Pointers,3,Linked List cycle II,https://leetcode.com/problems/linked-list-cycle-ii/,./src/main/java/FastAndSlowPointers/LinkedListCycle_II.java
+Two Pointers,Slow and Fast Pointers,4,Circular Array Loop,https://leetcode.com/problems/circular-array-loop/,./src/main/java/FastAndSlowPointers/CircularArrayLoop.java
+Two Pointers,Slow and Fast Pointers,5,Palindrome LinkedList,https://leetcode.com/problems/palindrome-linked-list/,./src/main/java/FastAndSlowPointers/PalindromeLinkedList.java
+Two Pointers,Slow and Fast Pointers,6,Happy Number,https://leetcode.com/problems/happy-number/,./src/main/java/FastAndSlowPointers/HappyNumber.java
+Two Pointers,Slow and Fast Pointers,7,Find the duplicate Number,https://leetcode.com/problems/find-the-duplicate-number/description/,./src/main/java/FastAndSlowPointers/FindTheDuplicateNumber.java
+Two Pointers,Slow and Fast Pointers,8,Swapping nodes Linked List,https://leetcode.com/problems/swapping-nodes-in-a-linked-list/,./src/main/java/LinkedList/SwapNodesInLinkedList.java
+Two Pointers,Slow and Fast Pointers,9,Remove/Delete Nth node from end of list,https://leetcode.com/problems/remove-nth-node-from-end-of-list/,./src/main/java/LinkedList/RemoveNthNodeFromEndOfList.java
+Two Pointers,Slow and Fast Pointers,10,Delete Node in a Linked List,https://leetcode.com/problems/delete-node-in-a-linked-list/,./src/main/java/LinkedList/DeleteNodeInALinkedList.java
+Two Pointers,Slow and Fast Pointers,11,Delete Middle Node of Linked List,https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/,./src/main/java/LinkedList/DeleteMiddleOfLinkedList.java
+Sliding Window,Fixed window,1,Sliding Window Maximum,https://leetcode.com/problems/sliding-window-maximum/,./src/main/java/SlidingWindow_Fixed/SlidingWindowMaximum.java
+Sliding Window,Fixed window,2,Minimum Window Substring,https://leetcode.com/problems/minimum-window-substring/,./src/main/java/SlidingWindow_Fixed/MinimumWindowSubstring.java
+Sliding Window,Fixed window,3,Longest Substring with almost K distinct characters,https://www.lintcode.com/problem/386/,
+Sliding Window,Fixed window,4,Fruits into baskets,https://leetcode.com/problems/fruit-into-baskets/,./src/main/java/SlidingWindow_Fixed/FruitsIntoBasket.java
+Sliding Window,Fixed window,5,Subarrays with K different Integers,https://leetcode.com/problems/subarrays-with-k-different-integers/,
+Sliding Window,Fixed window,6,Longest Substring with atleast k repeating characters,https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/,
+Sliding Window,Fixed window,7,Longest Repeating Character Replacement,https://leetcode.com/problems/longest-repeating-character-replacement/,
+Sliding Window,Fixed window,8,Substrings of size 3 with distinct characters,https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/,./src/main/java/SlidingWindow_Fixed/SubstringsOfSize3WithDistinctCharacters.java
+Sliding Window,Fixed window,9,Contains duplicates II & III,https://leetcode.com/problems/contains-duplicate-ii/,./src/main/java/SlidingWindow_Fixed/ContainsDuplicate_II.java
+Sliding Window,Fixed window,10,Maximum average subarray I,https://leetcode.com/problems/maximum-average-subarray-i/,./src/main/java/SlidingWindow_Fixed/Maximum_average_subarray_I.java
+Sliding Window,Fixed window,11,Diet Plan Performance,http://lixinchengdu.github.io/algorithmbook/leetcode/diet-plan-performance.html,./src/main/java/SlidingWindow_Fixed/DietPlanPerformance.java
+Sliding Window,Fixed window,12,Find the K-Beauty of a Number,https://leetcode.com/problems/find-the-k-beauty-of-a-number/,./src/main/java/SlidingWindow_Fixed/FindTheKBeautyOFANumber.java
+Sliding Window,Fixed window,13,Repeated DNA Sequences,https://leetcode.com/problems/repeated-dna-sequences/,./src/main/java/SlidingWindow_Fixed/RepeatedDNASequences.java
+Sliding Window,Fixed window,14,Find all anagrams in a string,https://leetcode.com/problems/find-all-anagrams-in-a-string/,./src/main/java/SlidingWindow_Fixed/FindAllAnagaramsInAString.java
+Sliding Window,Fixed window,15,Count Occurrences of Anagram,https://www.geeksforgeeks.org/count-occurrences-of-anagrams/,
+Sliding Window,Fixed window,16,Permutations In a String,https://leetcode.com/problems/permutation-in-string/,./src/main/java/SlidingWindow_Fixed/PermutationInAString.java
+Sliding Window,Variable Window,1,Longest substring without repeating characters,https://leetcode.com/problems/longest-substring-without-repeating-characters/,./src/main/java/SlidingWindow_Variable/LongestSubstringWithoutRepeatingCharacters.java
+Sliding Window,Variable Window,2,Subarrays Product Less Than K,https://leetcode.com/problems/subarray-product-less-than-k/,./src/main/java/SlidingWindow_Variable/Subarray_Product_LessThan_K.java
+Sliding Window,Variable Window,3,Subarrays Sum Equals K,https://leetcode.com/problems/subarray-product-less-than-k/,./src/main/java/SlidingWindow_Variable/Subarray_Sum_Equals_K.java
+Sliding Window,Variable Window,4,Maximum Size subarray sum equals K +ve/-ve,https://www.lintcode.com/problem/911,./src/main/java/SlidingWindow_Variable/MaximumSizeSubArraySumEqualsToK.java
+Sliding Window,Variable Window,5,Minimum Size subarray sum Equals K Only +ve,https://leetcode.com/problems/minimum-size-subarray-sum,./src/main/java/SlidingWindow_Variable/MinimumSize_SubarraySum_GreaterThanEquals_K.java
+Sliding Window,Variable Window,6,Maximum Consecutive Ones III,https://leetcode.com/problems/max-consecutive-ones-iii,./src/main/java/SlidingWindow_Variable/MaxConsecutiveOnes_III.java
+Sliding Window,Variable Window,7,Grumpy Bookstore Owner,https://leetcode.com/problems/grumpy-bookstore-owner,./src/main/java/SlidingWindow_Variable/GrumpyBookStoreOwner.java
+Sliding Window,Variable Window,8,Sliding Window Median,https://leetcode.com/problems/sliding-window-median/,./src/main/java/SlidingWindow_Variable/Sliding_Window_Median.java
+Sliding Window,Variable Window,9,Substring with concatenation of all words,https://leetcode.com/problems/substring-with-concatenation-of-all-words,./src/main/java/SlidingWindow_Variable/SubstringWithConcatenationOfAllWords.java
+Sliding Window,Variable Window,10,Longest nice substring,https://leetcode.com/problems/longest-nice-substring/,./src/main/java/SlidingWindow_Variable/LongestNiceSubstring.java
+Sliding Window,Variable Window,11,Maximum points you can obtain from cards,https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards,./src/main/java/SlidingWindow_Variable/GrumpyBookStoreOwner.java
+Sliding Window,Variable Window,12,Minimum Window Subsequence,https://www.lintcode.com/problem/857/,./src/main/java/SlidingWindow_Variable/GrumpyBookStoreOwner.java
+Sliding Window,Variable Window,13,Frequency of the most frequent element,https://leetcode.com/problems/frequency-of-the-most-frequent-element/,./src/main/java/SlidingWindow_Variable/GrumpyBookStoreOwner.java
+Sliding Window,Variable Window,14,Count unique characters of all substrings of a given string,https://leetcode.com/problems/count-unique-characters-of-all-substrings-of-a-given-string/,./src/main/java/SlidingWindow_Variable/GrumpyBookStoreOwner.java
+Sliding Window,Variable Window,15,Longest Subsequence Repeated k Times,https://leetcode.com/problems/longest-subsequence-repeated-k-times/,./src/main/java/SlidingWindow_Variable/GrumpyBookStoreOwner.java
+Sliding Window,Variable Window,16,Longest continuous subarray with absolute diff less than or equal to limit,https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit,./src/main/java/SlidingWindow_Variable/LongestContinuousSubarrayWithAbsoluteDiffLessThan.java
+Binary Search,Binary Search,1,Binary Search,https://leetcode.com/problems/binary-search/,./src/main/java/BinarySearch/BinarySearch.java
+Binary Search,Binary Search,2,Lower and Upper Bound,https://www.codingninjas.com/studio/problems/lower-bound_8165382,./src/main/java/BinarySearch/LowerAndUpperBound.java
+Binary Search,Binary Search,3,Search for insert position,https://leetcode.com/problems/search-insert-position/,./src/main/java/BinarySearch/
+Binary Search,Binary Search,4,Floor and Ceil in a sorted Array,https://takeuforward.org/arrays/floor-and-ceil-in-sorted-array/,./src/main/java/BinarySearch/FloorAndCeil.java
+Binary Search,Binary Search,5,Find the first and Last occurrences of a given number in sorted,https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/,./src/main/java/BinarySearch/FindTheFirstAndLastCountOccurences.java
+Binary Search,Binary Search,6,Count occurrences of a given number in a sorted array,https://leetcode.com/problems/binary-search/,./src/main/java/BinarySearch/FindTheFirstAndLastCountOccurences.java
+Binary Search,Binary Search,7,Search in a rotated sorted array I,https://leetcode.com/problems/search-in-rotated-sorted-array,./src/main/java/BinarySearch/SearchInASortedRotatedMatrix.java
+Binary Search,Binary Search,8,Search in a rotated sorted array II - duplicates,https://leetcode.com/problems/search-in-rotated-sorted-array-ii,./src/main/java/BinarySearch/SearchInASortedRotatedMatrix.java
+Binary Search,Binary Search,9,Minimum in a rotated sorted array,https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/,./src/main/java/BinarySearch/FindMinimum.java
+Binary Search,Binary Search,10,Single element in a sorted array,https://leetcode.com/problems/single-element-in-a-sorted-array/,./src/main/java/BinarySearch/SingleElementInSortedArray.java
+Binary Search,Binary Search,11,Median of two sorted arrays,https://leetcode.com/problems/median-of-two-sorted-arrays,./src/main/java/BinarySearch/MedianOfTwoSortedArrays.java
+Binary Search,Binary Search,12,Peak Index in a mountain array,https://leetcode.com/problems/peak-index-in-a-mountain-array/,./src/main/java/BinarySearch/PeakIndexInMountainArray.java
+Binary Search,Binary Search,13,Find the peak element,https://leetcode.com/problems/find-peak-element,./src/main/java/BinarySearch/FindAPeakElementIN_1DMatrix.java
+Binary Search,Binary Search,14,Find the peak element 2D Matrix,https://leetcode.com/problems/find-a-peak-element-ii/,./src/main/java/BinarySearch/FindThePeakElementInA2DMatrix.java
+Binary Search,Binary Search,15,Search in a 2D matrix I,https://leetcode.com/problems/search-a-2d-matrix/,./src/main/java/BinarySearch/SearchInA2DMatrix_I.java
+Binary Search,Binary Search,16,Search in a 2D Matrix II,https://leetcode.com/problems/search-a-2d-matrix/,./src/main/java/BinarySearch/SearchInA2DMatrix_II.java
+Binary Search,Binary Search,17,Matrix median,https://practice.geeksforgeeks.org/problems/median-in-a-row-wise-sorted-matrix1527/1,./src/main/java/BinarySearch/MatrixMedian.java
+Binary Search,Binary Search,18,Kth smallest element in a sorted matrix,https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/,./src/main/java/BinarySearch/MatrixMedian.java
+Binary Search,Binary Search,19,Kth missing positive number,https://takeuforward.org/arrays/kth-missing-positive-number/,./src/main/java/BinarySearch/
+Binary Search,Binary Search,20,Find the smallest divisor given a threshold,find-the-smallest-divisor-given-a-threshold,./src/main/java/BinarySearch/SmallestDivisor.java
+Binary Search,Binary Search,21,Kth element of 2 sorted arrays,https://www.codingninjas.com/studio/problems/k-th-element-of-2-sorted-array_1164159,./src/main/java/BinarySearch/KthElementOf2Sorted.java
+Binary Search,Binary Search,22,Find the sqrt of a integer,https://leetcode.com/problems/sqrtx/,./src/main/java/BinarySearch/SqrtOfNumber.java
+Binary Search,Binary Search,23,Find the Nth root of a integer,https://www.codingninjas.com/studio/problems/nth-root-of-m_1062679,./src/main/java/BinarySearch/NthRootOfInteger.java
+Binary Search,Binary Search,24,Koko eating bananas,https://leetcode.com/problems/koko-eating-bananas/,./src/main/java/BinarySearch/KokoEatingBananas.java.java
+Binary Search,Binary Search,25,Minimum days to make m bouquets,https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/,./src/main/java/BinarySearch/MinimumBouquets.java
+Binary Search,Binary Search,26,Least Capacity to ship packages in m days,https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/,./src/main/java/BinarySearch/CapacityToShip.java
+Binary Search,Binary Search,27,Allocate cows to stalls with max possible distance,https://www.codingninjas.com/studio/problems/aggressive-cows_1082559,./src/main/java/BinarySearch/AggresiveCows.java
+Binary Search,Binary Search,28,Minimum no of pages allocation,https://www.codingninjas.com/studio/problems/allocate-books_1090540,./src/main/java/BinarySearch/AllocateBooksToStudents.java
+Binary Search,Binary Search,29,Painters partition,https://www.codingninjas.com/studio/problems/painter-s-partition-problem_1089557,./src/main/java/BinarySearch/PaintersPartition.java
+Binary Search,Binary Search,30,Split array largest sum,https://leetcode.com/problems/split-array-largest-sum/,./src/main/java/BinarySearch/SplitArrayLargestSum.java
+Binary Search,Binary Search,31,Minimize the max distance to gas station,https://leetcode.com/problems/minimize-max-distance-to-gas-station/,
+Binary Search,Binary Search,32,H-Index I & II,https://leetcode.com/problems/h-index-ii/,./src/main/java/BinarySearch/HIndex_II.java
+Binary Search,Binary Search,33,Heaters,https://leetcode.com/problems/heaters/,./src/main/java/BinarySearch/Heaters.java
+Stack,Monotonic Stack,1,Next Greater Element (Right),https://www.codingninjas.com/studio/problems/next-greater-element_670312,./src/main/java/Stack/NextGreaterElementToRight.java
+Stack,Monotonic Stack,2,Next Greater Element (Right) - Leetcode,https://leetcode.com/problems/next-greater-element-i/,./src/main/java/Stack/NextGreaterElementToRight.java
+Stack,Monotonic Stack,3,Daily Temperatures (next greater - Right),https://leetcode.com/problems/daily-temperatures/,./src/main/java/Stack/NextGreaterElementToRight.java
+Stack,Monotonic Stack,4,Online Stock span,https://leetcode.com/problems/online-stock-span/,./src/main/java/Stack/
+Stack,Monotonic Stack,5,Previous Greater Element (NGE-Left),https://www.callicoder.com/nearest-greater-to-left/,./src/main/java/Stack/NextGreaterElementToLeft.java
+Stack,Monotonic Stack,6,Remove K digits,,./src/main/java/Stack/
+Stack,Monotonic Stack,7,132 Pattern,https://leetcode.com/problems/132-pattern/,./src/main/java/Stack/
+Stack,Monotonic Stack,8,Next Smaller Element (Right),https://www.codingninjas.com/studio/problems/next-smaller-element_1112581,./src/main/java/Stack/NextSmallerElementToRight.java
+Stack,Monotonic Stack,9,Previous Smaller Element (NSE-Left),https://www.geeksforgeeks.org/find-the-nearest-smaller-numbers-on-left-side-in-an-array/,./src/main/java/Stack/NextSmallerElementToLeft.java
+Stack,Monotonic Stack,10,Stock span,https://practice.geeksforgeeks.org/problems/stock-span-problem-1587115621/1,./src/main/java/Stack/
+Stack,Monotonic Stack,11,Largest Rectangle in a histogram (NSE&PSE),https://leetcode.com/problems/largest-rectangle-in-histogram/,./src/main/java/Stack/
+Stack,Monotonic Stack,12,Trapping Rain water,https://leetcode.com/problems/trapping-rain-water/,./src/main/java/Stack/
+Stack,Stack,1,Valid Parentheses,https://leetcode.com/problems/valid-parentheses/,./src/main/java/Stack/ValidParenthesis.java
+Stack,Stack,2,Redundant braces,https://www.interviewbit.com/problems/redundant-braces/,./src/main/java/Stack/ValidParenthesis.java
+Stack,Stack,3,Simplify Path,https://leetcode.com/problems/simplify-path/,./src/main/java/Stack/SimplifyPath.java
+Stack,Stack,4,Basic calculator I II III,https://leetcode.com/problems/basic-calculator/,./src/main/java/Stack/BasicCalculator.java
+Stack,Stack,5,Evaluate Reverse Polish Notation,https://leetcode.com/problems/evaluate-reverse-polish-notation/,./src/main/java/Stack/EvaluateReversePolish.java
+Stack,Stack,6,Sort stack,https://practice.geeksforgeeks.org/problems/sort-a-stack/1,./src/main/java/Stack/SortStack.java
+Stack,Stack,7,First Non Repeating character in a stream,,./src/main/java/Stack/SortStack.java
+Stack,Stack,8,Remove all adjacent duplicates in string I II,https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/,./src/main/java/Stack/SortStack.java
+Stack,Stack,9,Asteroid collision,https://leetcode.com/problems/asteroid-collision/,./src/main/java/Stack/AsteriodCollosion.java
+Linked List,Linked List,1,Reverse Linked Lists,https://leetcode.com/problems/reverse-linked-list/,./src/main/java/LinkedList/ReverseLinkedList.java
+Linked List,Linked List,2,Reverse Linked Lists II,https://leetcode.com/problems/reverse-linked-list-ii/,./src/main/java/LinkedList/ReverseLinkedListII.java
+Linked List,Linked List,3,Reverse nodes in k pair,https://leetcode.com/problems/reverse-nodes-in-k-group/,./src/main/java/LinkedList/ReverseLinkedListsInKGroup.java
+Linked List,Linked List,4,Reverse nodes in even length groups,https://leetcode.com/problems/reverse-nodes-in-even-length-groups/,./src/main/java/LinkedList/ReverseLinkedListEvenGroup.java
+Linked List,Linked List,5,Swapping nodes in pair,https://leetcode.com/problems/swap-nodes-in-pairs/,./src/main/java/LinkedList/SwapNodesInPair.java
+Linked List,Linked List,6,Odd-even linked list,https://leetcode.com/problems/odd-even-linked-list/,./src/main/java/LinkedList/OddEvenLinkedList.java
+Linked List,Linked List,7,Reorder List,https://leetcode.com/problems/reorder-list/,./src/main/java/LinkedList/ReorderList.java
+Linked List,Linked List,8,Rotate List,https://leetcode.com/problems/rotate-list/,./src/main/java/LinkedList/RotateList.java
+Linked List,Linked List,9,Copy list with random pointer,https://leetcode.com/problems/copy-list-with-random-pointer/,./src/main/java/LinkedList/CopyListWithRandomPointer.java
+Linked List,Linked List,10,Remove duplicates I & II,https://leetcode.com/problems/remove-duplicates-from-sorted-list/,./src/main/java/LinkedList/RemoveDuplicate.java
+Linked List,Linked List,11,Add two numbers,https://leetcode.com/problems/add-two-numbers/,./src/main/java/LinkedList/AddTwoNumbers.java
+Linked List,Linked List,12,Maximum Twin sum of a linked list,https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/,./src/main/java/LinkedList/MaximumTwinSumOfLinkedList.java
+Linked List,Linked List,13,Merge in between linked lists,https://leetcode.com/problems/merge-in-between-linked-lists/,./src/main/java/LinkedList/MergeInBetween.java
+Linked List,Linked List,14,Merge two sorted lists,https://leetcode.com/problems/merge-two-sorted-lists/,./src/main/java/LinkedList/MergeTwoSortedLists.java
+Linked List,Linked List,15,Intersection of two linked lists,https://leetcode.com/problems/intersection-of-two-linked-lists/,./src/main/java/LinkedList/IntersectionOfTwoLists.java
+Linked List,Linked List,16,Flatten binary tree to linked list (Morris),https://leetcode.com/problems/flatten-binary-tree-to-linked-list/,./src/main/java/LinkedList/FlattenBinaryTree.java
+Linked List,Linked List,17,Linked List in a binary tree,https://leetcode.com/problems/linked-list-in-binary-tree/,./src/main/java/LinkedList/LinkedListInABinaryTree.java
+Linked List,Linked List,18,Convert sorted linked list to binary search tree,https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/,./src/main/java/LinkedList/SortedListToBST.java
+Linked List,Linked List,19,Convert binary no to linked list no,https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/,./src/main/java/LinkedList/BinaryNumberToLinkedListInteger.java
+Linked List,Linked List,20,Sort List,https://leetcode.com/problems/sort-list/,./src/main/java/LinkedList/SortList.java
+Linked List,Linked List,21,Partition List,https://leetcode.com/problems/partition-list/,./src/main/java/LinkedList/PartitionList.java
+Design Data Structures,Design,1,LRU Cache,https://leetcode.com/problems/lru-cache/,
+Design Data Structures,Design,2,LFU Cache,https://leetcode.com/problems/lfu-cache/,
+Design Data Structures,Design,3,Design Browser History,https://leetcode.com/problems/design-browser-history/,
+Design Data Structures,Design,4,Insert Delete getRandom O(1),https://leetcode.com/problems/insert-delete-getrandom-o1/,
+Design Data Structures,Design,5,All O(1) data Structures,https://leetcode.com/problems/all-oone-data-structure/,
+Design Data Structures,Design,6,Design Twitter,https://leetcode.com/problems/design-twitter/,
+Design Data Structures,Design,7,Tweets Count per Second,https://leetcode.com/problems/tweet-counts-per-frequency/,
+Design Data Structures,Design,8,Design hashMap,https://leetcode.com/problems/design-hashmap/,
+Design Data Structures,Design,9,Design Parking System,https://leetcode.com/problems/design-parking-system/,
+Design Data Structures,Design,10,Maximum frequency stack,https://leetcode.com/problems/maximum-frequency-stack/,./src/main/java/Stack/
+Design Data Structures,Design,11,Min Stack,https://leetcode.com/problems/min-stack/,./src/main/java/Stack/
+Design Data Structures,Design,12,Implement stack using queues,https://leetcode.com/problems/implement-stack-using-queues/,./src/main/java/Stack/
+Design Data Structures,Design,13,Implement queue using stack,https://leetcode.com/problems/implement-queue-using-stacks/,./src/main/java/Stack/
+Recursion Backtracking,Recursion,1,Factorial,https://practice.geeksforgeeks.org/problems/factorial5739/1,./src/main/java/recursion/FactorialAndFibonacci.java
+Recursion Backtracking,Recursion,2,Fibonacci,https://practice.geeksforgeeks.org/problems/nth-fibonacci-number1335/1,./src/main/java/recursion/FactorialAndFibonacci.java
+Recursion Backtracking,Recursion,3,Integer to English words,https://leetcode.com/problems/integer-to-english-words/,./src/main/java/recursion/IntegerToEnglishWords.java
+Recursion Backtracking,Recursion,4,Power of any number -3 4,https://leetcode.com/problems/power-of-three/,./src/main/java/recursion/PowerOfANumber.java
+Recursion Backtracking,Recursion,5,X raised to power n,https://leetcode.com/problems/powx-n/,./src/main/java/recursion/PowerOfXRaisedToN.java
+Recursion Backtracking,Recursion,6,Count good Numbers,https://leetcode.com/problems/count-good-numbers/,./src/main/java/recursion/CountGoodNumbers.java
+Recursion Backtracking,Recursion,7,Josephus problem,https://leetcode.com/problems/find-the-winner-of-the-circular-game/,./src/main/java/recursion/JosephusProblem.java
+Recursion Backtracking,Recursion,8,Special keyboard,https://practice.geeksforgeeks.org/problems/special-keyboard3018/1,./src/main/java/recursion/SpecialKeyboard.java
+Recursion Backtracking,Recursion,9,Towers of hanoi,https://practice.geeksforgeeks.org/problems/tower-of-hanoi-1587115621/1,./src/main/java/recursion/TowersOfHanoi.java
+Recursion Backtracking,Backtracking,1,Subsets I & II,https://leetcode.com/problems/subsets/,./src/main/java/backtracking/Subsets_I.java
+Recursion Backtracking,Backtracking,2,Permutations I & II,https://leetcode.com/problems/permutations/,./src/main/java/backtracking/Permutation.java
+Recursion Backtracking,Backtracking,3,Combinations,https://leetcode.com/problems/combinations/,./src/main/java/backtracking/Combination.java
+Recursion Backtracking,Backtracking,4,Combination Sum I II and III,https://leetcode.com/problems/combination-sum/,./src/main/java/backtracking/CombinationSum.java
+Recursion Backtracking,Backtracking,5,Letter combinations,https://leetcode.com/problems/letter-combinations-of-a-phone-number/,./src/main/java/backtracking/LetterCombinationsOfAPhoneNumber.java
+Recursion Backtracking,Backtracking,6,Generate parenthesis,https://leetcode.com/problems/generate-parentheses/,./src/main/java/backtracking/GenerateParenthesis.java
+Recursion Backtracking,Backtracking,7,Decode ways,https://leetcode.com/problems/decode-ways/,./src/main/java/backtracking/DecodeWays.java
+Recursion Backtracking,Backtracking,8,Restore Ip address,https://leetcode.com/problems/restore-ip-addresses/,./src/main/java/backtracking/RestoreIpAddress.java
+Recursion Backtracking,Backtracking,9,Rat In a maze,https://www.geeksforgeeks.org/rat-in-a-maze/,./src/main/java/backtracking/RatInaMaze.java
+Recursion Backtracking,Backtracking,10,Valid sudoku,https://leetcode.com/problems/valid-sudoku/,./src/main/java/backtracking/ValidSuduko.java
+Recursion Backtracking,Backtracking,11,Sudoku solver,https://leetcode.com/problems/sudoku-solver/,./src/main/java/backtracking/SudukoSolver.java
+Recursion Backtracking,Backtracking,12,N-Queens Problem I & II,https://leetcode.com/problems/n-queens/,./src/main/java/backtracking/NQueens.java
+Dynamic Programming,Dp on stocks,1,Best Time to Buy and Sell Stock I,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,./src/main/java/DynamicProgramming/
+Dynamic Programming,Dp on stocks,2,Best Time to Buy and Sell Stock II,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/,./src/main/java/DynamicProgramming/
+Dynamic Programming,Dp on stocks,3,Best Time to Buy and Sell Stock III,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/,./src/main/java/DynamicProgramming/
+Dynamic Programming,Dp on stocks,4,Best Time to Buy and Sell Stock IV,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/,./src/main/java/DynamicProgramming/
+Dynamic Programming,Dp on stocks,5,Best time to buy and sell stock with cooldown,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/,./src/main/java/DynamicProgramming/
+Dynamic Programming,Dp on LIS,1,Longest Increasing subsequence,https://leetcode.com/problems/longest-increasing-subsequence/,./src/main/java/DynamicProgramming/
+Dynamic Programming,1D DP,1,Fibonacci,https://leetcode.com/problems/fibonacci-number/,./src/main/java/DynamicProgramming/
+Dynamic Programming,1D DP,2,Climbing Stairs I,https://leetcode.com/problems/climbing-stairs/,./src/main/java/DynamicProgramming/
+Dynamic Programming,1D DP,3,Climbing Stairs II,https://leetcode.com/problems/min-cost-climbing-stairs/,./src/main/java/DynamicProgramming/
+Dynamic Programming,1D DP,4,House Robber I,https://leetcode.com/problems/house-robber/,./src/main/java/DynamicProgramming/
+Dynamic Programming,1D DP,5,House Robber II,https://leetcode.com/problems/house-robber-ii/,./src/main/java/DynamicProgramming/
+Dynamic Programming,1D DP,6,Frog Jump I,https://leetcode.com/problems/frog-jump/,./src/main/java/DynamicProgramming/
+Dynamic Programming,1D DP,7,Frog Jump II,https://leetcode.com/problems/frog-jump-ii/,./src/main/java/DynamicProgramming/
+Dynamic Programming,1D DP,8,Unique Paths I II III,https://leetcode.com/problems/target-sum,./src/main/java/DynamicProgramming/
+Dynamic Programming,Dp on subsequences,1,Coin change I,https://leetcode.com/problems/coin-change/,./src/main/java/DynamicProgramming/
+Dynamic Programming,Dp on subsequences,2,Coin change II,https://leetcode.com/problems/coin-change-ii/,./src/main/java/DynamicProgramming/
+Dynamic Programming,Dp on subsequences,3,Target Sum,https://leetcode.com/problems/target-sum,./src/main/java/DynamicProgramming/
+Dynamic Programming,Dp on subsequences,4,Rod cutting to maximize profit,https://takeuforward.org/data-structure/rod-cutting-problem-dp-24/,./src/main/java/DynamicProgramming/
+Dynamic Programming,Dp on subsequences,5,Subset Sum,https://takeuforward.org/data-structure/subset-sum-equal-to-target-dp-14/,./src/main/java/DynamicProgramming/
+Dynamic Programming,Dp on subsequences,6,Partition equal subset sum,https://leetcode.com/problems/partition-equal-subset-sum/,./src/main/java/DynamicProgramming/
+Dynamic Programming,Dp on subsequences,7,Partition to K Equal Sum Subsets,https://leetcode.com/problems/partition-to-k-equal-sum-subsets,./src/main/java/DynamicProgramming/
+Dynamic Programming,Dp on Strings,1,Edit distance,https://leetcode.com/problems/edit-distance/,./src/main/java/DynamicProgramming/
+Dynamic Programming,Dp on Strings,2,InterLeaving String,https://leetcode.com/problems/interleaving-string/,./src/main/java/DynamicProgramming/
+Dynamic Programming,Dp on Strings,3,Regular expression,https://leetcode.com/problems/regular-expression-matching/,./src/main/java/backtracking/RegularExpressionMatching.java
+Dynamic Programming,Dp on Strings,4,Wildcard,https://leetcode.com/problems/wildcard-matching/,./src/main/java/backtracking/WildCard.java
+Dynamic Programming,Dp on Strings,5,Word break,https://leetcode.com/problems/word-break/,./src/main/java/backtracking/WordBreak_I.java
+Dynamic Programming,Dp on Strings,6,Word break II,https://leetcode.com/problems/word-break-ii/,./src/main/java/backtracking/WordBreak_II.java
+Dynamic Programming,Dp on Strings,7,Word Search,https://leetcode.com/problems/word-search/,./src/main/java/backtracking/WordSearch_I.java
+Dynamic Programming,Dp on Strings,8,Word Search II,https://leetcode.com/problems/word-search-ii/,./src/main/java/backtracking/WordSearch_II.java
+Dynamic Programming,Dp on Strings,9,Longest Common substring,https://takeuforward.org/data-structure/longest-common-substring-dp-27/,./src/main/java/DynamicProgramming/
+Dynamic Programming,Dp on Strings,10,Longest Common subsequence,https://leetcode.com/problems/longest-palindromic-subsequence/,./src/main/java/DynamicProgramming/
+Dynamic Programming,Dp on Strings,11,Longest Palindromic subsequence,https://leetcode.com/problems/longest-palindromic-subsequence/,./src/main/java/DynamicProgramming/
+Dynamic Programming,Dp on Strings,12,Longest Palindromic substring,https://leetcode.com/problems/longest-palindromic-substring/,./src/main/java/DynamicProgramming/
+Dynamic Programming,Dp on Strings,13,Count of palindromic substrings,https://takeuforward.org/data-structure/minimum-insertions-to-make-string-palindrome-dp-29/,./src/main/java/DynamicProgramming/
+Dynamic Programming,Dp on MCM partition,1,Matrix chain multiplication - burst balloons,https://leetcode.com/problems/burst-balloons,./src/main/java/DynamicProgramming/
+Dynamic Programming,Dp on MCM partition,2,Palindrome partitioning,https://leetcode.com/problems/palindrome-partitioning/,./src/main/java/DynamicProgramming/
+Dynamic Programming,Dp on MCM partition,3,Palindrome partitioning II,https://leetcode.com/problems/palindrome-partitioning-ii/,./src/main/java/DynamicProgramming/
+Dynamic Programming,Dp on MCM partition,4,Minimum cost to cut a stick,https://leetcode.com/problems/minimum-cost-to-cut-a-stick/,./src/main/java/DynamicProgramming/
+Dynamic Programming,Dp on Squares misc,1,Maximal square,https://leetcode.com/problems/maximal-square/,./src/main/java/DynamicProgramming/
+Dynamic Programming,Dp on Squares misc,2,Triangle,https://leetcode.com/problems/triangle/,./src/main/java/DynamicProgramming/
+Dynamic Programming,Dp on Squares misc,3,Minimum path sum,https://leetcode.com/problems/minimum-path-sum/,./src/main/java/DynamicProgramming/
+Dynamic Programming,Dp on Squares misc,4,Maximal rectangle,https://leetcode.com/problems/maximal-rectangle/,./src/main/java/DynamicProgramming/
+Trees,BFS,1,BFS - I,https://leetcode.com/problems/binary-tree-level-order-traversal/,./src/main/java/Trees/TreeTraversals.java
+Trees,BFS,2,BFS - II,https://leetcode.com/problems/binary-tree-level-order-traversal-ii/,./src/main/java/Trees/TreeTraversals.java
+Trees,BFS,3,N-ary Tree Level Order Traversal,https://leetcode.com/problems/n-ary-tree-level-order-traversal/,./src/main/java/Trees/TreeTraversals.java
+Trees,BFS,4,Average of Levels in a BT,https://leetcode.com/problems/average-of-levels-in-binary-tree/,./src/main/java/Trees/TreeTraversals.java
+Trees,BFS,5,Cousins in BT,https://leetcode.com/problems/cousins-in-binary-tree/,./src/main/java/Trees/TreeTraversals.java
+Trees,DFS,1,Pre-Order,https://leetcode.com/problems/binary-tree-preorder-traversal/,./src/main/java/Trees/TreeTraversals.java
+Trees,DFS,2,N-Ary Tree Pre-order,https://leetcode.com/problems/n-ary-tree-preorder-traversal/,./src/main/java/Trees/TreeTraversals.java
+Trees,DFS,3,Post-Order,https://leetcode.com/problems/binary-tree-postorder-traversal/,./src/main/java/Trees/TreeTraversals.java
+Trees,DFS,4,N-Ary Tree Post-order,https://leetcode.com/problems/n-ary-tree-postorder-traversal/,./src/main/java/Trees/TreeTraversals.java
+Trees,DFS,5,In-Order,https://leetcode.com/problems/binary-tree-inorder-traversal/,./src/main/java/Trees/TreeTraversals.java
+Trees,Tree Properties,1,Height of Binary Tree,https://practice.geeksforgeeks.org/problems/height-of-binary-tree/1,./src/main/java/Trees/TreeProperties.java
+Trees,Tree Properties,2,Maximum Depth of Binary Tree,https://leetcode.com/problems/maximum-depth-of-binary-tree/,./src/main/java/Trees/TreeProperties.java
+Trees,Tree Properties,3,Minimum Depth of Binary Tree,https://leetcode.com/problems/minimum-depth-of-binary-tree/,./src/main/java/Trees/TreeProperties.java
+Trees,Tree Properties,4,Maximum Depth of N-ary Tree,https://leetcode.com/problems/maximum-depth-of-n-ary-tree/,./src/main/java/Trees/TreeProperties.java
+Trees,Tree Properties,5,Diameter of Binary Tree,https://leetcode.com/problems/diameter-of-binary-tree/,./src/main/java/Trees/TreeProperties.java
+Trees,Tree Properties,6,Maximum Width of Binary Tree,https://leetcode.com/problems/maximum-width-of-binary-tree/,./src/main/java/Trees/TreeProperties.java
+Trees,Tree Views,1,Left View of a Tree,https://practice.geeksforgeeks.org/problems/left-view-of-binary-tree/1,./src/main/java/Trees/TreeViews.java
+Trees,Tree Views,2,Right View of a Tree,https://leetcode.com/problems/binary-tree-right-side-view/,./src/main/java/Trees/TreeViews.java
+Trees,Tree Views,3,Top View of a Tree,https://practice.geeksforgeeks.org/problems/top-view-of-binary-tree/1,./src/main/java/Trees/TreeViews.java
+Trees,Tree Views,4,Bottom View of a Tree,https://practice.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1,./src/main/java/Trees/TreeViews.java
+Trees,Tree Views,5,Bottom Left View of a Tree,https://leetcode.com/problems/find-bottom-left-tree-value/,./src/main/java/Trees/TreeViews.java
+Trees,Tree Views,6,Boundary Traversal,https://practice.geeksforgeeks.org/problems/boundary-traversal-of-binary-tree/1,./src/main/java/Trees/TreeViews.java
+Trees,Tree Views,7,Zigzag Traversal,https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/,./src/main/java/Trees/TreeViews.java
+Trees,Tree Views,8,Vertical Order Traversal,https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/,./src/main/java/Trees/TreeViews.java
+Trees,Tree Validations,1,Invert BT,https://leetcode.com/problems/invert-binary-tree/,./src/main/java/Trees/Validations.java
+Trees,Tree Validations,2,Same tree,https://leetcode.com/problems/same-tree/,./src/main/java/Trees/Validations.java
+Trees,Tree Validations,3,Subtree of another tree,https://leetcode.com/problems/subtree-of-another-tree/,./src/main/java/Trees/Validations.java
+Trees,Tree Validations,4,Symmetric Tree,https://leetcode.com/problems/symmetric-tree/,./src/main/java/Trees/Validations.java
+Trees,Tree Validations,5,Balanced BT,https://leetcode.com/problems/balanced-binary-tree/,./src/main/java/Trees/Validations.java
+Trees,Tree Validations,6,Validate BST,https://leetcode.com/problems/validate-binary-search-tree/,./src/main/java/Trees/Validations.java
+Trees,Tree Validations,7,Unique BST,https://leetcode.com/problems/unique-binary-search-trees/,./src/main/java/Trees/Validations.java
+Trees,Tree Constructions,1,Inorder Successor in BST,https://practice.geeksforgeeks.org/problems/inorder-successor-in-bst/1,./src/main/java/Trees/TreeViews.java
+Trees,Tree Constructions,2,Count Leaves in Binary Tree,https://practice.geeksforgeeks.org/problems/count-leaves-in-binary-tree/1,./src/main/java/Trees/
+Trees,Tree Constructions,3,Convert Sorted Array to Binary Search Tree,https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/,./src/main/java/Trees/
+Trees,Tree Constructions,4,Convert Sorted List to Binary Search Tree,https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/,./src/main/java/Trees/
+Trees,Tree Constructions,5,Flatten Binary Tree to Linked List,https://leetcode.com/problems/flatten-binary-tree-to-linked-list/,./src/main/java/Trees/
+Trees,Tree Constructions,6,Convert BST to sorted doubly linked list,https://www.lintcode.com/problem/1534/,./src/main/java/Trees/
+Trees,Tree Constructions,7,Convert BST To Greater Tree,https://leetcode.com/problems/convert-bst-to-greater-tree/,./src/main/java/Trees/
+Trees,Tree Constructions,8,Construct Binary Tree from Preorder and Inorder,https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/,./src/main/java/Trees/
+Trees,Tree Constructions,9,Construct String from Binary Tree,https://leetcode.com/problems/construct-string-from-binary-tree/,./src/main/java/Trees/
+Trees,Tree Sum,1,Path Sum I and II,https://leetcode.com/problems/path-sum/,./src/main/java/Trees/
+Trees,Tree Sum,2,Sum root to leaf,https://leetcode.com/problems/sum-root-to-leaf-numbers/,./src/main/java/Trees/
+Trees,Tree Sum,3,Maximum path sum,https://practice.geeksforgeeks.org/problems/maximum-path-sum/1,./src/main/java/Trees/
+Trees,Tree Sum,4,Populating Next Right ptrs,https://leetcode.com/problems/populating-next-right-pointers-in-each-node/,./src/main/java/Trees/
+Trees,Tree Sum,5,Trim a BST,https://leetcode.com/problems/trim-a-binary-search-tree/,./src/main/java/Trees/
+Trees,Tree Sum,6,Serialize and Deserialize a Binary Tree,https://practice.geeksforgeeks.org/problems/serialize-and-deserialize-a-binary-tree/1,./src/main/java/Trees/
+Trees,Tree Sum,7,LCA - BST,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/,./src/main/java/Trees/
+Trees,Tree Sum,8,LCA - BT,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/,./src/main/java/Trees/
+Trees,Tree Sum,9,Merge 2 binary trees,https://leetcode.com/problems/merge-two-binary-trees/,./src/main/java/Trees/
+Trees,Tree Sum,10,Kth smallest element in a BST,https://leetcode.com/problems/kth-smallest-element-in-a-bst/,./src/main/java/Trees/
+Graphs,Graph Representation,1,Graph Representation - Adjacency Matrix,https://practice.geeksforgeeks.org/problems/print-adjacency-list-1587115620/1,./src/main/java/Graphs/
+Graphs,DFS,1,Depth First traversal,https://practice.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1,./src/main/java/Graphs/GraphDFS.java
+Graphs,DFS,2,Clone graph,https://leetcode.com/problems/clone-graph/,./src/main/java/Graphs/CloneGraph.java
+Graphs,DFS,3,Flood fill,https://leetcode.com/problems/flood-fill/,./src/main/java/Graphs/FloodFill.java
+Graphs,DFS,4,Number of islands,https://leetcode.com/problems/number-of-islands/,./src/main/java/Graphs/NumberOfIslands.java
+Graphs,DFS,5,Max area of island,https://leetcode.com/problems/max-area-of-island/,./src/main/java/Graphs/MaxAreaOfIsland.java
+Graphs,DFS,6,Surrounded regions,https://leetcode.com/problems/surrounded-regions/,./src/main/java/Graphs/SurroundedRegions.java
+Graphs,DFS,7,Time needed to inform all employees,https://leetcode.com/problems/time-needed-to-inform-all-employees/,./src/main/java/Graphs/TimeNeededToInformAllEmployees.java
+Graphs,BFS,1,Breadth First Traversal,https://practice.geeksforgeeks.org/problems/bfs-traversal-of-graph/1,./src/main/java/Graphs/GraphBFS.java
+Graphs,BFS,2,Rotting oranges,https://leetcode.com/problems/rotting-oranges/,./src/main/java/Graphs/RottenOranges.java
+Graphs,BFS,3,Word ladder,https://leetcode.com/problems/word-ladder/,./src/main/java/Graphs/WordLadder_BFS.java
+Graphs,BFS,4,Minimum genetic mutation,https://leetcode.com/problems/minimum-genetic-mutation/,./src/main/java/Graphs/
+Graphs,BFS,5,Snakes and ladder,https://leetcode.com/problems/snakes-and-ladders/,./src/main/java/Graphs/SnakesAndLadder.java
+Graphs,BFS,6,Evaluate division,https://leetcode.com/problems/evaluate-division/,./src/main/java/Graphs/EvaluateDivison.java
+Graphs,Topological Sorting,1,Topological sorting,https://practice.geeksforgeeks.org/problems/topological-sort/1,./src/main/java/Graphs/ToplogicalSort.java
+Graphs,Topological Sorting,2,Course schedule I,https://leetcode.com/problems/course-schedule/,./src/main/java/Graphs/CourseSchedule_I.java
+Graphs,Topological Sorting,3,Course Schedule II,https://leetcode.com/problems/course-schedule-ii/,./src/main/java/Graphs/CourseSchedule_II.java
+Graphs,Topological Sorting,4,Alien dictionary,https://practice.geeksforgeeks.org/problems/alien-dictionary/1,./src/main/java/Graphs/AlienDictionary.java
+Graphs,Disjoint Set,1,Disjoint set - Union find,https://practice.geeksforgeeks.org/problems/disjoint-set-union-find/1,./src/main/java/Graphs/DisjointSet.java
+Graphs,Disjoint Set,2,Redundant connection,https://leetcode.com/problems/redundant-connection/,./src/main/java/Graphs/RedundantConnections.java
+Graphs,Disjoint Set,3,Account merge,https://leetcode.com/problems/accounts-merge/,./src/main/java/Graphs/
+Graphs,Disjoint Set,4,Minimum Spanning Tree - Kruskals,https://leetcode.com/problems/accounts-merge/,./src/main/java/Graphs/
+Graphs,Cycle Detection,1,Cycle detection in directed graph,https://practice.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1,./src/main/java/Graphs/CycleDetectionInDirectedGraph.java
+Graphs,Cycle Detection,2,Find eventual safe states,https://leetcode.com/problems/find-eventual-safe-states/,./src/main/java/Graphs/FindEventualSafeStates.java
+Graphs,Cycle Detection,3,Cycle detection in undirected graph,https://practice.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1,./src/main/java/Graphs/CycleDetectionInUndirectedGraph.java
+Graphs,Other concepts,1,Graph coloring or Bipartite graph,https://practice.geeksforgeeks.org/problems/bipartite-graph/1,./src/main/java/Graphs/
+Graphs,Other concepts,2,Single Source shortest path - Dijkstras,https://practice.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1,./src/main/java/Graphs/CycleDetectionInDirectedGraph.java
+Tries,Tries,1,Implement Trie Data structure,https://leetcode.com/problems/implement-trie-prefix-tree/,
+Tries,Tries,2,Longest common prefix,https://leetcode.com/problems/longest-common-prefix/,
+Tries,Tries,3,Design add and search words data structure,https://leetcode.com/problems/design-add-and-search-words-data-structure/,
+Segment Trees,Segment Trees,1,Range sum query mutable,https://leetcode.com/problems/range-sum-query-mutable/,
+Segment Trees,Segment Trees,2,Range sum query immutable,https://leetcode.com/problems/range-sum-query-immutable/,
+Segment Trees,Segment Trees,3,Range sum query 2D mutable,https://protegejj.gitbook.io/algorithm-practice/google/308-range-sum-query-2d-mutable,
+Segment Trees,Segment Trees,4,Range sum query 2D immutable,https://leetcode.com/problems/range-sum-query-2d-immutable/,
